@@ -101,7 +101,7 @@
 ![image](https://github.com/user-attachments/assets/42eaa1b0-2ec1-4059-8955-b8d58fb7c392)
 
 * Add New Location Page: 그룹 맵에 표시하고 싶은 장소를 추가하는 페이지
-1. KAKAO　API를 이용해 사용자가 원하는 장소를 추가할 수 있습니다.
+1. KAKAO API를 이용해 사용자가 원하는 장소를 추가할 수 있습니다.
 2. 추가된 장소는 Group Page의 맵을 통해 확인 가능합니다.
 
 ## 5. 개발환경
